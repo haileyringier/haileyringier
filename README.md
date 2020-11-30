@@ -1,6 +1,6 @@
-### Hello, My name is Hailey Ringier
 
-## Full Stack Software Engineer, avid reader and dog lover
+
+## Hailey Ringier - Full Stack Software Engineer
 
 ### Tech Stack
 
