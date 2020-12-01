@@ -1,6 +1,7 @@
 
 
-## Hailey Ringier - Full Stack Software Engineer
+# Hailey Ringier - Full Stack Software Engineer
+## Avid Reader and Dog lover
 
 
 ### Tech Stack
