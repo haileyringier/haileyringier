@@ -1,8 +1,15 @@
 
 
 # Hailey Ringier - Full Stack Software Engineer
-## Avid Reader and Dog lover
+### Avid Reader and Dog lover
+* Read over 7,500 pages so far in 2020
+* Two dogs named Korra and Bumi
 
+
+### My Experience in 30 secs
+* B.A. in Criminal Justice, Minors in Politcal Science and Women and Gender Studies
+* Obtained paralegal certification while in undergrad and afterwards worked as a paralegal for four years 
+* Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
 
 ### Tech Stack
 
@@ -13,6 +20,7 @@
 <img align="left" atl="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br/>
+
 
 ### Connect with me
 
