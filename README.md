@@ -11,6 +11,11 @@
 * Obtained paralegal certification while in undergrad and afterwards worked as a paralegal for four years 
 * Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
 
+### I'm Currently...
+* Exploring Python - Using the book Mission Python by Sean McManus
+* Strengthening JavaScript and React skills
+* Collaborating on a React Native app that combines lofi music and a pomodoro timer
+
 ### Tech Stack
 
 <img align="left" atl="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
