@@ -18,10 +18,10 @@
 
 ### Tech Stack
 
-<img align="left" atl="react" src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" atl="react" src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" atl="material-ui" src="https://img.shields.io/badge/Material--UI-38B2AC?style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img align="left" atl="ruby" src="https://img.shields.io/badge/Ruby-38B2AC?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img align="left" atl="JS" src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="left" atl="JS" src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img align="left" atl="HTML" src="https://img.shields.io/badge/HTML5-38B2AC?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br/>
