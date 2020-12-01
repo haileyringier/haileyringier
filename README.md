@@ -29,8 +29,8 @@
 
 ### Connect with me
 
-[<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
-[<img align="left" atl="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][Youtube]
+[<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-FF7A59.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
+[<img align="left" atl="youtube" src="https://img.shields.io/badge/YouTube-FF7A59?style=for-the-badge&logo=youtube&logoColor=white"/>][Youtube]
   
 [LinkedIn]:https://www.linkedin.com/in/hailey-ringier/
 [Youtube]:https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg?view_as=subscriber
