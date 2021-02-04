@@ -2,8 +2,9 @@
 
 # Hailey Ringier - Full Stack Software Engineer
 ### Avid Reader and Dog lover
-* Read over 7,500 pages so far in 2020
+* Read over 7,500 pages in 2020
 * Two dogs named Korra and Bumi
+* Novice Baker - Working on mastering macarons in 2021
 
 
 ### My Experience in 30 secs
@@ -13,7 +14,7 @@
 
 ### I'm Currently...
 * Exploring Python - Using the book Mission Python by Sean McManus
-* Strengthening JavaScript and React skills
+* Advancing React skills 
 * Collaborating on a React Native app that combines lofi music and a pomodoro timer
 
 ### Tech Stack
