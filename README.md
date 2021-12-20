@@ -16,7 +16,6 @@
 ### I'm Currently...
 * Exploring Python - Using the book Mission Python by Sean McManus
 * Advancing React skills and learning GraphQL
-* 
 
 ### Tech Stack
 
