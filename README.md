@@ -2,7 +2,7 @@
 
 # Hailey Ringier - Full Stack Software Engineer
 ### Avid Reader and Dog lover
-* Read over 7,500 pages in 2020
+* Loves to read Sci-Fi and fantasy
 * Two dogs named Korra and Bumi
 * Novice Baker - Working on mastering macarons in 2021
 
@@ -11,11 +11,12 @@
 * B.A. in Criminal Justice, Minors in Politcal Science and Women and Gender Studies
 * Obtained paralegal certification while in undergrad and afterwards worked as a paralegal for four years 
 * Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
+* Currently working at Airbus as a Front end Engineer
 
 ### I'm Currently...
 * Exploring Python - Using the book Mission Python by Sean McManus
-* Advancing React skills 
-* Collaborating on a React Native app that combines lofi music and a pomodoro timer
+* Advancing React skills and learning GraphQL
+* 
 
 ### Tech Stack
 
